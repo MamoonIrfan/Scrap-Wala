@@ -1,0 +1,6 @@
+{
+  "name": "Scrap Wala",
+  "description": "AI-Assisted Scrap Trading and Pickup Management Platform — Compare Buyers. Arrange Pickup. Record Settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
